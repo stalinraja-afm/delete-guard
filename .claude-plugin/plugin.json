@@ -1,0 +1,5 @@
+{
+  "name": "delete-guard",
+  "version": "0.1.0",
+  "description": "Holds any delete-like command and asks for confirmation before it runs"
+}

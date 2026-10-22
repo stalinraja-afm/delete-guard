@@ -1,0 +1,5 @@
+{
+  "name": "delete-guard",
+  "owner": { "name": "stalinraja-afm" },
+  "plugins": [{ "name": "delete-guard", "source": "./" }]
+}
